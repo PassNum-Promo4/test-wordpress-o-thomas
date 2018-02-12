@@ -1,0 +1,51 @@
+/*
+Theme Name: Theme enfant
+Description: Theme enfant de Benoit WPServeur
+Author: thomas - wp_bootstrap_starter-chil
+Author URI: https://www.wpserveur.net
+Template: wp-bootstrap-starter
+Version: 0.1.0
+*/
+.entry-meta {
+  display: none;
+}
+
+header#masthead{
+  background-color: red;
+}
+aside#secondary{
+  display: none;
+}
+.projet{
+  margin-top:13%;
+  margin-right: 5%;
+
+}
+.titre-page{
+  text-align: center;
+  color: #563e7c;
+  font-size: 3.750rem;
+  margin-bottom: 10%;
+}
+.lien{
+  color:blue;
+}
+.content-formation{
+  background-color:#FEE5B2;
+
+  margin-bottom:5%;
+  border:solid;
+  border-width: 1px;
+  border-color: #eaecef;
+
+}
+.formation {
+  width: 90%;
+}
+
+.titre {
+  font-size: 22px;
+}
+h2 {
+  color:red;
+}
