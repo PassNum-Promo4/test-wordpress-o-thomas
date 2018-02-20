@@ -30,7 +30,7 @@ get_header(); ?>
 	<div class="content-formation competences col-lg-4 offset-lg-1">
 		<h2 class= "titre"><?php the_field('titre-presentation'); ?></h2>
 		<ul>
-			
+
 			<li> <?php the_field('competence1'); ?></li>
 			<li> <?php the_field('competence2'); ?></li>
 			<li> <?php the_field('competence3'); ?></li>
@@ -47,6 +47,7 @@ get_header(); ?>
 <li><?php the_field('experience_pro2'); ?></li>
 <li><?php the_field('experience_pro3'); ?></li>
 <li><?php the_field('experience_pro4'); ?></li>
+<li><?php the_field('experience_pro5'); ?></li>
 
 		</ul>
 	</div>
